@@ -1,0 +1,1 @@
+This is exercise 1 of HTML 101
